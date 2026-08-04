@@ -1,4 +1,3 @@
-# ts-course-proj-2
 
 A small React + TypeScript project scaffolded with Create React App. It includes a set of reusable components, a mock data module, and a simple build/deploy setup for GitHub Pages.
 
@@ -69,15 +68,3 @@ See the project's scripts in [package.json](package.json).
 
 Contributions are welcome. Open an issue or submit a pull request with a clear description of your changes.
 
-## License
-
-This project is provided under the MIT License. Replace or update this notice as needed.
-
----
-
-If you'd like, I can also:
-
-- add an example screenshot or preview in `README.md` (ask me to include images from `build/`)
-- expand the `Contributing` section with a pull-request checklist
-- add CI instructions (GitHub Actions) for build + deploy
-# TypeScript курс. Проект GitHub user finder
